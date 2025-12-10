@@ -1,0 +1,68 @@
+[
+    {
+        "publicada": 1,
+        "numero": 905,
+        "escrutado": true,
+        "digitalizado": 1,
+        "id_informacion_mesa_corporacion": "010100802006905",
+        "nombre_archivo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/E14/01/008/02/006/E14_P01_01_008_002_00_006_905_0343.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251206%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251206T231124Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=9e94156bac173b67e1fa6f31a3293b5c44d86b3579e170f47b5e2d48257f7b43",
+        "etiquetas": [
+            "Inconsistencia"
+        ]
+    },
+    {
+        "publicada": 1,
+        "numero": 906,
+        "escrutado": true,
+        "digitalizado": 1,
+        "id_informacion_mesa_corporacion": "010100802006906",
+        "nombre_archivo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/E14/01/008/02/006/E14_P01_01_008_002_00_006_906_0343.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251206%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251206T231124Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=fb01fd24ef84089b28e0f08e7ac5504d30760ab6e39880afbffd41ba3870be5a",
+        "etiquetas": [
+            "Divulgada Correctamente"
+        ]
+    },
+    {
+        "publicada": 1,
+        "numero": 907,
+        "escrutado": true,
+        "digitalizado": 1,
+        "id_informacion_mesa_corporacion": "010100802006907",
+        "nombre_archivo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/E14/01/008/02/006/E14_P01_01_008_002_00_006_907_0343.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251206%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251206T231124Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=69b7eebad9c471fca4d2d326662606d27603e3cdabdd728c8601cdff4826aabe",
+        "etiquetas": [
+            "Inconsistencia"
+        ]
+    },
+    {
+        "publicada": 1,
+        "numero": 908,
+        "escrutado": true,
+        "digitalizado": 1,
+        "id_informacion_mesa_corporacion": "010100802006908",
+        "nombre_archivo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/E14/01/008/02/006/E14_P01_01_008_002_00_006_908_0344.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251206%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251206T231124Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=9e719e10f333e5d6173a873eb8d4a3866553ae5ffe9eff56a8b7fe52fcec69c6",
+        "etiquetas": [
+            "Inconsistencia"
+        ]
+    },
+    {
+        "publicada": 1,
+        "numero": 909,
+        "escrutado": true,
+        "digitalizado": 1,
+        "id_informacion_mesa_corporacion": "010100802006909",
+        "nombre_archivo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/E14/01/008/02/006/E14_P01_01_008_002_00_006_909_0344.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251206%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251206T231124Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=aaddef435e143df63a9c056cfa44e43c4022e1d8407a6c829f740abc3e97a08c",
+        "etiquetas": [
+            "Divulgada Correctamente"
+        ]
+    },
+    {
+        "publicada": 1,
+        "numero": 910,
+        "escrutado": true,
+        "digitalizado": 1,
+        "id_informacion_mesa_corporacion": "010100802006910",
+        "nombre_archivo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/E14/01/008/02/006/E14_P01_01_008_002_00_006_910_0344.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251206%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251206T231124Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=5616d856fe02f44a6b12cb6770d7f3340eabec335038cbb73c492f4b3f8ff1ce",
+        "etiquetas": [
+            "Divulgada Correctamente"
+        ]
+    }
+]
