@@ -1,0 +1,36 @@
+[
+    {
+        "publicada": 1,
+        "numero": 3418,
+        "escrutado": true,
+        "digitalizado": 1,
+        "id_informacion_mesa_corporacion": "0104014020033418",
+        "nombre_archivo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/E14/04/014/02/003/E14_P01_04_014_002_00_003_3418_1403.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251207%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251207T113317Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=946247206984872406f278e2d99b05cf7e5bae3e69abe5108c376893aecf8672",
+        "etiquetas": [
+            "Inconsistencia"
+        ]
+    },
+    {
+        "publicada": 1,
+        "numero": 3419,
+        "escrutado": true,
+        "digitalizado": 1,
+        "id_informacion_mesa_corporacion": "0104014020033419",
+        "nombre_archivo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/E14/04/014/02/003/E14_P01_04_014_002_00_003_3419_1403.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251207%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251207T113317Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=a64f72b5767586ec47e23fdb7c5e495db7dc9f2fdaea4a59d2c01020a68d3cd3",
+        "etiquetas": [
+            "Divulgada Correctamente"
+        ]
+    },
+    {
+        "publicada": 1,
+        "numero": 3420,
+        "escrutado": false,
+        "digitalizado": 1,
+        "id_informacion_mesa_corporacion": "0104014020033420",
+        "nombre_archivo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/E14/04/014/02/003/E14_P01_04_014_002_00_003_3420_1403.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251207%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251207T113317Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=1c739e380a0474ffb8cd83cccc442a4f271dd97c7703ab7af3b9f3f44c5dfbee",
+        "etiquetas": [
+            "Divulgada Correctamente",
+            "Pendiente de Revisi\u00f3n"
+        ]
+    }
+]
