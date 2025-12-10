@@ -1,0 +1,35 @@
+[
+    {
+        "publicada": 1,
+        "numero": 4508,
+        "escrutado": true,
+        "digitalizado": 1,
+        "id_informacion_mesa_corporacion": "0105001012064508",
+        "nombre_archivo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/E14/05/001/01/206/E14_P01_05_001_001_00_206_4508_1754.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251207%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251207T125630Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=eec5007ef91b85f695c1bed274eb8fe94b502e4c4f1f8c171947405a2e90a0ed",
+        "etiquetas": [
+            "Inconsistencia"
+        ]
+    },
+    {
+        "publicada": 1,
+        "numero": 4509,
+        "escrutado": true,
+        "digitalizado": 1,
+        "id_informacion_mesa_corporacion": "0105001012064509",
+        "nombre_archivo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/E14/05/001/01/206/E14_P01_05_001_001_00_206_4509_1754.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251207%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251207T125630Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=e3600bcffc9b8c37db0fb21b3ec41710976d6ad2105082387e0efae045204dcc",
+        "etiquetas": [
+            "Inconsistencia"
+        ]
+    },
+    {
+        "publicada": 1,
+        "numero": 4510,
+        "escrutado": true,
+        "digitalizado": 1,
+        "id_informacion_mesa_corporacion": "0105001012064510",
+        "nombre_archivo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/E14/05/001/01/206/E14_P01_05_001_001_00_206_4510_1754.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251207%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251207T125630Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=2cc3e9100b8cb10554609fa8f25453b09bb74b4552e1ca676bef561c6897bde1",
+        "etiquetas": [
+            "Divulgada Correctamente"
+        ]
+    }
+]
