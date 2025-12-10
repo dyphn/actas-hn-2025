@@ -1,0 +1,35 @@
+[
+    {
+        "publicada": 1,
+        "numero": 5464,
+        "escrutado": true,
+        "digitalizado": 1,
+        "id_informacion_mesa_corporacion": "0105002010495464",
+        "nombre_archivo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/E14/05/002/01/049/E14_P01_05_002_001_00_049_5464_2040.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251207%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251207T121320Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=4ad8b5647b7ec9dd88465dbbcd0c5e62dc60b163d85f52142e717219ab438178",
+        "etiquetas": [
+            "Inconsistencia"
+        ]
+    },
+    {
+        "publicada": 1,
+        "numero": 5465,
+        "escrutado": true,
+        "digitalizado": 1,
+        "id_informacion_mesa_corporacion": "0105002010495465",
+        "nombre_archivo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/E14/05/002/01/049/E14_P01_05_002_001_00_049_5465_2040.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251207%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251207T121320Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=24ba34dd2fac5a3bc9244e2b8f4fa9af8f274b9b1cc7158a6266b9dd79901858",
+        "etiquetas": [
+            "Divulgada Correctamente"
+        ]
+    },
+    {
+        "publicada": 1,
+        "numero": 5466,
+        "escrutado": true,
+        "digitalizado": 1,
+        "id_informacion_mesa_corporacion": "0105002010495466",
+        "nombre_archivo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/E14/05/002/01/049/E14_P01_05_002_001_00_049_5466_2040.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251207%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251207T121320Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=1d654b6414819d8270170f8fc4b1cbabaf547fe510827e7498eaf1eac5fb56b5",
+        "etiquetas": [
+            "Divulgada Correctamente"
+        ]
+    }
+]
