@@ -1,0 +1,35 @@
+[
+    {
+        "publicada": 0,
+        "numero": 3273,
+        "escrutado": false,
+        "digitalizado": 1,
+        "id_informacion_mesa_corporacion": "0104011020073273",
+        "nombre_archivo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/E14/04/011/02/007/E14_P01_04_011_002_00_007_3273_1347.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251207%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251207T112837Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=36a9717c8a7598e5d968a586e9c5749fe504d8ed6b215d471a15a814e37209b4",
+        "etiquetas": [
+            "Pendiente de transmisi\u00f3n"
+        ]
+    },
+    {
+        "publicada": 0,
+        "numero": 3274,
+        "escrutado": false,
+        "digitalizado": 1,
+        "id_informacion_mesa_corporacion": "0104011020073274",
+        "nombre_archivo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/E14/04/011/02/007/E14_P01_04_011_002_00_007_3274_1347.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251207%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251207T112837Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=93c67ef792a2c79cef5098c747ed71078b48282c8a93a25ccabc7673465d9e73",
+        "etiquetas": [
+            "Pendiente de transmisi\u00f3n"
+        ]
+    },
+    {
+        "publicada": 0,
+        "numero": 3275,
+        "escrutado": false,
+        "digitalizado": 1,
+        "id_informacion_mesa_corporacion": "0104011020073275",
+        "nombre_archivo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/E14/04/011/02/007/E14_P01_04_011_002_00_007_3275_1347.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251207%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251207T112837Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=2cc27e11ee668460be51a45a0e1c9e7065935c6a88b349f119edfb7cccf4590f",
+        "etiquetas": [
+            "Pendiente de transmisi\u00f3n"
+        ]
+    }
+]
