@@ -1,0 +1,68 @@
+[
+    {
+        "publicada": 0,
+        "numero": 2903,
+        "escrutado": false,
+        "digitalizado": 1,
+        "id_informacion_mesa_corporacion": "0104002020012903",
+        "nombre_archivo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/E14/04/002/02/001/E14_P01_04_002_002_00_001_2903_1157.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251207%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251207T111605Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=0ae5fa64a55a8ea696080311c877ba4746e37d811539d85d272bcf2ae7f06a83",
+        "etiquetas": [
+            "Pendiente de transmisi\u00f3n"
+        ]
+    },
+    {
+        "publicada": 0,
+        "numero": 2904,
+        "escrutado": false,
+        "digitalizado": 1,
+        "id_informacion_mesa_corporacion": "0104002020012904",
+        "nombre_archivo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/E14/04/002/02/001/E14_P01_04_002_002_00_001_2904_1157.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251207%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251207T111605Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=d063a30ab990da40e812b72c92d173e01d20672119dc678c5a4439f1cdac38d6",
+        "etiquetas": [
+            "Pendiente de transmisi\u00f3n"
+        ]
+    },
+    {
+        "publicada": 0,
+        "numero": 2905,
+        "escrutado": false,
+        "digitalizado": 1,
+        "id_informacion_mesa_corporacion": "0104002020012905",
+        "nombre_archivo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/E14/04/002/02/001/E14_P01_04_002_002_00_001_2905_1157.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251207%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251207T111605Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=d85b333cd51ffa1fff1ffd0dd0549bf1365604fa49a94d4f2458c8918a4b2b96",
+        "etiquetas": [
+            "Pendiente de transmisi\u00f3n"
+        ]
+    },
+    {
+        "publicada": 1,
+        "numero": 2906,
+        "escrutado": true,
+        "digitalizado": 1,
+        "id_informacion_mesa_corporacion": "0104002020012906",
+        "nombre_archivo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/ACTAS/04/0402029060041000.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251207%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251207T111605Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=6267f397ae4c2d6b8481cad64adfbabc7d7aa1d805d492d7cbbd5f4f7a73d196",
+        "etiquetas": [
+            "Divulgada Correctamente"
+        ]
+    },
+    {
+        "publicada": 1,
+        "numero": 2907,
+        "escrutado": true,
+        "digitalizado": 1,
+        "id_informacion_mesa_corporacion": "0104002020012907",
+        "nombre_archivo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/ACTAS/04/0402029070041000.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251207%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251207T111605Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=00b52acadf8b285791e573b0c23854dc5ea12badc183259454deaa8fffecb3f9",
+        "etiquetas": [
+            "Divulgada Correctamente"
+        ]
+    },
+    {
+        "publicada": 1,
+        "numero": 2908,
+        "escrutado": true,
+        "digitalizado": 1,
+        "id_informacion_mesa_corporacion": "0104002020012908",
+        "nombre_archivo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/ACTAS/04/0402029080041000.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251207%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251207T111605Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=50c2852532efaaa1f33d8d3397fb4af4c216034d9c2446414f3f89b1c192a02f",
+        "etiquetas": [
+            "Divulgada Correctamente"
+        ]
+    }
+]
