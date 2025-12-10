@@ -1,0 +1,36 @@
+[
+    {
+        "publicada": 1,
+        "numero": 2575,
+        "escrutado": true,
+        "digitalizado": 1,
+        "id_informacion_mesa_corporacion": "0103018020102575",
+        "nombre_archivo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/E14/03/018/02/010/E14_P01_03_018_002_00_010_2575_1031.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251207%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251207T111003Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=3d876ae9976efb24a173688b75aad3e9250fbd057e3b48dbae18a2bc08a87854",
+        "etiquetas": [
+            "Inconsistencia"
+        ]
+    },
+    {
+        "publicada": 1,
+        "numero": 2576,
+        "escrutado": false,
+        "digitalizado": 1,
+        "id_informacion_mesa_corporacion": "0103018020102576",
+        "nombre_archivo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/E14/03/018/02/010/E14_P01_03_018_002_00_010_2576_1031.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251207%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251207T111003Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=ffd0af2ddba3cf733c618beedba5a0d3057cf1d03eb3c2f7681951d4ba1f797d",
+        "etiquetas": [
+            "Divulgada Correctamente",
+            "Pendiente de Revisi\u00f3n"
+        ]
+    },
+    {
+        "publicada": 1,
+        "numero": 2577,
+        "escrutado": true,
+        "digitalizado": 1,
+        "id_informacion_mesa_corporacion": "0103018020102577",
+        "nombre_archivo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/E14/03/018/02/010/E14_P01_03_018_002_00_010_2577_1031.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251207%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251207T111003Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=b92fa197f1032c57df6fac9e41df26e0491ab6b00785f2e301c1f93179fd1a56",
+        "etiquetas": [
+            "Inconsistencia"
+        ]
+    }
+]
