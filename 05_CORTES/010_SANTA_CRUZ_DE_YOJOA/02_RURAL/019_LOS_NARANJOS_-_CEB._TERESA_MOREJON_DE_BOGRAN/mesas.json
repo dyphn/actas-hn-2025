@@ -1,0 +1,48 @@
+[
+    {
+        "publicada": 1,
+        "numero": 6398,
+        "escrutado": false,
+        "digitalizado": 1,
+        "id_informacion_mesa_corporacion": "0105010020196398",
+        "nombre_archivo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/E14/05/010/02/019/E14_P01_05_010_002_00_019_6398_2358.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251207%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251207T130207Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=4ab8aeb8f4914022ab828bd72c61b84e41aa15b8b034aea0accccd35f7875b9f",
+        "etiquetas": [
+            "Divulgada Correctamente",
+            "Pendiente de Revisi\u00f3n"
+        ]
+    },
+    {
+        "publicada": 1,
+        "numero": 6399,
+        "escrutado": true,
+        "digitalizado": 1,
+        "id_informacion_mesa_corporacion": "0105010020196399",
+        "nombre_archivo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/E14/05/010/02/019/E14_P01_05_010_002_00_019_6399_2358.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251207%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251207T130207Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=45136dfc4d28544de1760022fdfd759211d47900e2c2ffcf48f312e06bead64e",
+        "etiquetas": [
+            "Divulgada Correctamente",
+            "Pendiente de Revisi\u00f3n"
+        ]
+    },
+    {
+        "publicada": 0,
+        "numero": 6400,
+        "escrutado": false,
+        "digitalizado": 0,
+        "id_informacion_mesa_corporacion": "0105010020196400",
+        "nombre_archivo": "",
+        "etiquetas": [
+            "Pendiente de transmisi\u00f3n"
+        ]
+    },
+    {
+        "publicada": 1,
+        "numero": 6401,
+        "escrutado": true,
+        "digitalizado": 1,
+        "id_informacion_mesa_corporacion": "0105010020196401",
+        "nombre_archivo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/E14/05/010/02/019/E14_P01_05_010_002_00_019_6401_2358.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251207%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251207T130207Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=93ab597a36e499d402351b8b05292116b08979c1930134dfe529db31c8c177a0",
+        "etiquetas": [
+            "Divulgada Correctamente"
+        ]
+    }
+]

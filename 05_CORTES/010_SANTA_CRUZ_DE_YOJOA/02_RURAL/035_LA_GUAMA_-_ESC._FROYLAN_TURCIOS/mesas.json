@@ -1,0 +1,35 @@
+[
+    {
+        "publicada": 1,
+        "numero": 6461,
+        "escrutado": true,
+        "digitalizado": 1,
+        "id_informacion_mesa_corporacion": "0105010020356461",
+        "nombre_archivo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/E14/05/010/02/035/E14_P01_05_010_002_00_035_6461_2379.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251207%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251207T130148Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=dcc9839829ea0a49a03c4b0663d3e5aa41cd52edb5e6f97cfd483094798eb425",
+        "etiquetas": [
+            "Divulgada Correctamente"
+        ]
+    },
+    {
+        "publicada": 1,
+        "numero": 6462,
+        "escrutado": true,
+        "digitalizado": 1,
+        "id_informacion_mesa_corporacion": "0105010020356462",
+        "nombre_archivo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/E14/05/010/02/035/E14_P01_05_010_002_00_035_6462_2379.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251207%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251207T130148Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=24016dbf8b2f905f8d938b6a5d086620d322b3413ab77635410a598f565be651",
+        "etiquetas": [
+            "Inconsistencia"
+        ]
+    },
+    {
+        "publicada": 1,
+        "numero": 6463,
+        "escrutado": true,
+        "digitalizado": 1,
+        "id_informacion_mesa_corporacion": "0105010020356463",
+        "nombre_archivo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/ACTAS/05/0510064630041000.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251207%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251207T130148Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=6f7cde16fa8e2d84d5d740e29c1f35f34136864ffaaec5474f0dc6232994f935",
+        "etiquetas": [
+            "Inconsistencia"
+        ]
+    }
+]
