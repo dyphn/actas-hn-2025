@@ -1,0 +1,35 @@
+[
+    {
+        "publicada": 1,
+        "numero": 7289,
+        "escrutado": true,
+        "digitalizado": 1,
+        "id_informacion_mesa_corporacion": "0106001020257289",
+        "nombre_archivo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/E14/06/001/02/025/E14_P01_06_001_002_00_025_7289_2645.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251207%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251207T001916Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=eb9fa29ef65d5dc416d59328b14db531e0859b4855c6eb8dbb5bee1735eb640d",
+        "etiquetas": [
+            "Divulgada Correctamente"
+        ]
+    },
+    {
+        "publicada": 1,
+        "numero": 7290,
+        "escrutado": true,
+        "digitalizado": 1,
+        "id_informacion_mesa_corporacion": "0106001020257290",
+        "nombre_archivo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/E14/06/001/02/025/E14_P01_06_001_002_00_025_7290_2645.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251207%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251207T001916Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=fa1b7c7e58e196d9318d818cda49959ed72f8d4b768e53137e9490c0d42c9a50",
+        "etiquetas": [
+            "Divulgada Correctamente"
+        ]
+    },
+    {
+        "publicada": 1,
+        "numero": 7291,
+        "escrutado": true,
+        "digitalizado": 1,
+        "id_informacion_mesa_corporacion": "0106001020257291",
+        "nombre_archivo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/E14/06/001/02/025/E14_P01_06_001_002_00_025_7291_2645.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251207%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251207T001916Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=64c4b22b0ab6c6759cc1815467fdb14bd214690c9881a25d1ffec3724d843570",
+        "etiquetas": [
+            "Divulgada Correctamente"
+        ]
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "publicada": 1,
+        "numero": 7320,
+        "escrutado": true,
+        "digitalizado": 1,
+        "id_informacion_mesa_corporacion": "0106001020447320",
+        "nombre_archivo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/ACTAS/06/0601073200041000.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251207%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251207T002036Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=1a2929e9bf7a1719b39e0782a1168daffaedf23c9506963a89811d77b7ede26c",
+        "etiquetas": [
+            "Divulgada Correctamente",
+            "Pendiente de Revisi\u00f3n"
+        ]
+    }
+]
