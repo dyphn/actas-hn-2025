@@ -1,0 +1,13 @@
+[
+    {
+        "publicada": 0,
+        "numero": 1235,
+        "escrutado": false,
+        "digitalizado": 1,
+        "id_informacion_mesa_corporacion": "0102005020141235",
+        "nombre_archivo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/E14/02/005/02/014/E14_P01_02_005_002_00_014_1235_0479.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251207%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251207T102100Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=d082dcaa5a6af76fa85071813f02ba44198dca9bc3c5d13bb2146ae324a3c75b",
+        "etiquetas": [
+            "Pendiente de transmisi\u00f3n"
+        ]
+    }
+]
