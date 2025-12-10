@@ -1,0 +1,68 @@
+[
+    {
+        "publicada": 0,
+        "numero": 1493,
+        "escrutado": false,
+        "digitalizado": 1,
+        "id_informacion_mesa_corporacion": "0102009020091493",
+        "nombre_archivo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/E14/02/009/02/009/E14_P01_02_009_002_00_009_1493_0581.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251207%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251207T102654Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=59f259868b24ba4dfbea939552debf1dc401cce7c49ad40b7c586ef0af4ce6b9",
+        "etiquetas": [
+            "Pendiente de transmisi\u00f3n"
+        ]
+    },
+    {
+        "publicada": 0,
+        "numero": 1494,
+        "escrutado": false,
+        "digitalizado": 1,
+        "id_informacion_mesa_corporacion": "0102009020091494",
+        "nombre_archivo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/E14/02/009/02/009/E14_P01_02_009_002_00_009_1494_0581.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251207%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251207T102654Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=4835723918b2abffccf5cf5129f0bbcf58fe7a91907a999cb1021ec918823d4e",
+        "etiquetas": [
+            "Pendiente de transmisi\u00f3n"
+        ]
+    },
+    {
+        "publicada": 0,
+        "numero": 1495,
+        "escrutado": false,
+        "digitalizado": 1,
+        "id_informacion_mesa_corporacion": "0102009020091495",
+        "nombre_archivo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/E14/02/009/02/009/E14_P01_02_009_002_00_009_1495_0581.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251207%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251207T102654Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=b8f7d4295e0cc36cf4967022677dcd5679c4da707bb15b25cbfc565562d83d9a",
+        "etiquetas": [
+            "Pendiente de transmisi\u00f3n"
+        ]
+    },
+    {
+        "publicada": 0,
+        "numero": 1496,
+        "escrutado": false,
+        "digitalizado": 1,
+        "id_informacion_mesa_corporacion": "0102009020091496",
+        "nombre_archivo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/E14/02/009/02/009/E14_P01_02_009_002_00_009_1496_0582.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251207%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251207T102654Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=9bc8ba158d02ec5d51ecb713c9c1a22565206884dbe5af966df185e37652ef35",
+        "etiquetas": [
+            "Pendiente de transmisi\u00f3n"
+        ]
+    },
+    {
+        "publicada": 0,
+        "numero": 1497,
+        "escrutado": false,
+        "digitalizado": 1,
+        "id_informacion_mesa_corporacion": "0102009020091497",
+        "nombre_archivo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/E14/02/009/02/009/E14_P01_02_009_002_00_009_1497_0582.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251207%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251207T102654Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=3786f7d2bbd6cfb65f4d36f8d71deff384536a204d878e502bcde9b7d42d6aa5",
+        "etiquetas": [
+            "Pendiente de transmisi\u00f3n"
+        ]
+    },
+    {
+        "publicada": 0,
+        "numero": 1498,
+        "escrutado": false,
+        "digitalizado": 1,
+        "id_informacion_mesa_corporacion": "0102009020091498",
+        "nombre_archivo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/E14/02/009/02/009/E14_P01_02_009_002_00_009_1498_0582.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251207%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251207T102654Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=c6d5c585a595640de8c6100b21425eb4d5a6e1e41416d6209220a0cd05d102b0",
+        "etiquetas": [
+            "Pendiente de transmisi\u00f3n"
+        ]
+    }
+]
