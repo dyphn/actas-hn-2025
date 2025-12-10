@@ -1,0 +1,35 @@
+[
+    {
+        "publicada": 1,
+        "numero": 43,
+        "escrutado": true,
+        "digitalizado": 1,
+        "id_informacion_mesa_corporacion": "01010010101543",
+        "nombre_archivo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/E14/01/001/01/015/E14_P01_01_001_001_00_015_043_0014.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251206%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251206T234054Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=8f1877be32001049b32575856720ebc4bcff08bcbf9b54663a0df5a598c267bd",
+        "etiquetas": [
+            "Divulgada Correctamente"
+        ]
+    },
+    {
+        "publicada": 1,
+        "numero": 44,
+        "escrutado": true,
+        "digitalizado": 1,
+        "id_informacion_mesa_corporacion": "01010010101544",
+        "nombre_archivo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/E14/01/001/01/015/E14_P01_01_001_001_00_015_044_0014.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251206%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251206T234054Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=4a8a3c2b4a34851dc41b827f9b8adf2e2364b1b0af060166a20bde38107a9e18",
+        "etiquetas": [
+            "Divulgada Correctamente"
+        ]
+    },
+    {
+        "publicada": 1,
+        "numero": 45,
+        "escrutado": true,
+        "digitalizado": 1,
+        "id_informacion_mesa_corporacion": "01010010101545",
+        "nombre_archivo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/E14/01/001/01/015/E14_P01_01_001_001_00_015_045_0014.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251206%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251206T234054Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=3766470e51cd3d4a6a1e7e54b575e675a360c248badea4476ca65743a4e3f9ee",
+        "etiquetas": [
+            "Divulgada Correctamente"
+        ]
+    }
+]
