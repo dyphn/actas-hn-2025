@@ -1,0 +1,36 @@
+[
+    {
+        "publicada": 1,
+        "numero": 2038,
+        "escrutado": false,
+        "digitalizado": 1,
+        "id_informacion_mesa_corporacion": "0103004020032038",
+        "nombre_archivo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/E14/03/004/02/003/E14_P01_03_004_002_00_003_2038_0790.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251207%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251207T105506Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=02b1e9e9f9c30b246201a43b59f0a8fe3dd7e7e176f73462dcb637e8473ebf07",
+        "etiquetas": [
+            "Divulgada Correctamente",
+            "Pendiente de Revisi\u00f3n"
+        ]
+    },
+    {
+        "publicada": 1,
+        "numero": 2039,
+        "escrutado": true,
+        "digitalizado": 1,
+        "id_informacion_mesa_corporacion": "0103004020032039",
+        "nombre_archivo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/E14/03/004/02/003/E14_P01_03_004_002_00_003_2039_0790.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251207%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251207T105506Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=de05e401792f0799da1bcaf84895986cf55511c5f31f85327aee58a7f1055658",
+        "etiquetas": [
+            "Divulgada Correctamente"
+        ]
+    },
+    {
+        "publicada": 1,
+        "numero": 2040,
+        "escrutado": true,
+        "digitalizado": 1,
+        "id_informacion_mesa_corporacion": "0103004020032040",
+        "nombre_archivo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/E14/03/004/02/003/E14_P01_03_004_002_00_003_2040_0790.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251207%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251207T105506Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=9e385b4341fee2b18724235fe89802e91a230af033b2fa8f2b73418e68c3657c",
+        "etiquetas": [
+            "Divulgada Correctamente"
+        ]
+    }
+]
