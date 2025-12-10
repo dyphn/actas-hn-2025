@@ -1,0 +1,35 @@
+[
+    {
+        "publicada": 1,
+        "numero": 3295,
+        "escrutado": true,
+        "digitalizado": 1,
+        "id_informacion_mesa_corporacion": "0104012020043295",
+        "nombre_archivo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/E14/04/012/02/004/E14_P01_04_012_002_00_004_3295_1357.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251207%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251207T112941Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=fa141d45c44ba3771e530084c12b5da7642c12f1a3b9373fe7e10930cf20fa7a",
+        "etiquetas": [
+            "Divulgada Correctamente"
+        ]
+    },
+    {
+        "publicada": 1,
+        "numero": 3296,
+        "escrutado": true,
+        "digitalizado": 1,
+        "id_informacion_mesa_corporacion": "0104012020043296",
+        "nombre_archivo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/ACTAS/04/0412032960041000.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251207%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251207T112941Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=85fd2a968a6cf1846433b8f11b0f0a1151f4b6f92720ff4a8055c7d3e5a5f109",
+        "etiquetas": [
+            "Divulgada Correctamente"
+        ]
+    },
+    {
+        "publicada": 0,
+        "numero": 3297,
+        "escrutado": false,
+        "digitalizado": 1,
+        "id_informacion_mesa_corporacion": "0104012020043297",
+        "nombre_archivo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/E14/04/012/02/004/E14_P01_04_012_002_00_004_3297_1357.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251207%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251207T112941Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=05d85f5ab43e013080b5c6956c8e8e81715c56c9b43ccca1b55c7c4a8e7af894",
+        "etiquetas": [
+            "Pendiente de transmisi\u00f3n"
+        ]
+    }
+]
