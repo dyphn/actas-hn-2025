@@ -1,0 +1,35 @@
+[
+    {
+        "publicada": 1,
+        "numero": 771,
+        "escrutado": true,
+        "digitalizado": 1,
+        "id_informacion_mesa_corporacion": "010100702019771",
+        "nombre_archivo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/E14/01/007/02/019/E14_P01_01_007_002_00_019_771_0282.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251207%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251207T000045Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=2d1febef591682197d04bd6630957ebe97e8efa3bd35377d18350c3ae79d9765",
+        "etiquetas": [
+            "Divulgada Correctamente"
+        ]
+    },
+    {
+        "publicada": 1,
+        "numero": 772,
+        "escrutado": true,
+        "digitalizado": 1,
+        "id_informacion_mesa_corporacion": "010100702019772",
+        "nombre_archivo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/E14/01/007/02/019/E14_P01_01_007_002_00_019_772_0282.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251207%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251207T000045Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=8b449405abd7c8313c4e1a276715a1690e1aab8830efbaf5d9cf4a332eb30cc2",
+        "etiquetas": [
+            "Divulgada Correctamente"
+        ]
+    },
+    {
+        "publicada": 1,
+        "numero": 773,
+        "escrutado": true,
+        "digitalizado": 1,
+        "id_informacion_mesa_corporacion": "010100702019773",
+        "nombre_archivo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/E14/01/007/02/019/E14_P01_01_007_002_00_019_773_0282.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251207%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251207T000045Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=451b15e6416d7c6546f9be9f30b70ee2475fb12e55ce95fa9bef72d159043cee",
+        "etiquetas": [
+            "Inconsistencia"
+        ]
+    }
+]
