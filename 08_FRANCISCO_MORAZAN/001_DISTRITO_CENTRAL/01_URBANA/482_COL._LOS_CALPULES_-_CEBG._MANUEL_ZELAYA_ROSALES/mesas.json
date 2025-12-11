@@ -1,0 +1,68 @@
+[
+    {
+        "publicada": 1,
+        "numero": 11024,
+        "escrutado": true,
+        "digitalizado": 1,
+        "id_informacion_mesa_corporacion": "01080010148211024",
+        "nombre_archivo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/E14/08/001/01/482/E14_P01_08_001_001_00_482_11024_3994.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251207%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251207T133307Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=201fb4d1e7aa6e2136a465f715261a4306b87342929def8e06f3899cd9f77388",
+        "etiquetas": [
+            "Divulgada Correctamente"
+        ]
+    },
+    {
+        "publicada": 1,
+        "numero": 11025,
+        "escrutado": true,
+        "digitalizado": 1,
+        "id_informacion_mesa_corporacion": "01080010148211025",
+        "nombre_archivo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/E14/08/001/01/482/E14_P01_08_001_001_00_482_11025_3994.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251207%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251207T133307Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=4833467c020e0871a7ad7a48cf3c9eead8cbbe2cbb5700066e9163670860ff08",
+        "etiquetas": [
+            "Divulgada Correctamente"
+        ]
+    },
+    {
+        "publicada": 1,
+        "numero": 11026,
+        "escrutado": true,
+        "digitalizado": 1,
+        "id_informacion_mesa_corporacion": "01080010148211026",
+        "nombre_archivo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/E14/08/001/01/482/E14_P01_08_001_001_00_482_11026_3994.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251207%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251207T133307Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=324a4ffc350a75e9c5e8fc56164f634e7ce271aa0d500d259447e6b595d38eee",
+        "etiquetas": [
+            "Divulgada Correctamente"
+        ]
+    },
+    {
+        "publicada": 1,
+        "numero": 11027,
+        "escrutado": true,
+        "digitalizado": 1,
+        "id_informacion_mesa_corporacion": "01080010148211027",
+        "nombre_archivo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/E14/08/001/01/482/E14_P01_08_001_001_00_482_11027_3995.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251207%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251207T133307Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=e5b62becd7f0ecf3d008e9e5f29f4e3c2186b0edf5561d48560708e91c34cac7",
+        "etiquetas": [
+            "Divulgada Correctamente"
+        ]
+    },
+    {
+        "publicada": 1,
+        "numero": 11028,
+        "escrutado": true,
+        "digitalizado": 1,
+        "id_informacion_mesa_corporacion": "01080010148211028",
+        "nombre_archivo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/E14/08/001/01/482/E14_P01_08_001_001_00_482_11028_3995.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251207%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251207T133307Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=0e618105e4c9148839462e7a887ec6cecfe4c7d97de544f874d73f4e7362bd3e",
+        "etiquetas": [
+            "Divulgada Correctamente"
+        ]
+    },
+    {
+        "publicada": 1,
+        "numero": 11029,
+        "escrutado": true,
+        "digitalizado": 1,
+        "id_informacion_mesa_corporacion": "01080010148211029",
+        "nombre_archivo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/E14/08/001/01/482/E14_P01_08_001_001_00_482_11029_3995.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251207%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251207T133307Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=ca2e4fa1f9328ce51e5613be19bd0b5f4b9e7664316f670961cbc0c9b8ed690d",
+        "etiquetas": [
+            "Inconsistencia"
+        ]
+    }
+]
