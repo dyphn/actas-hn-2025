@@ -1,0 +1,36 @@
+[
+    {
+        "publicada": 1,
+        "numero": 9030,
+        "escrutado": false,
+        "digitalizado": 1,
+        "id_informacion_mesa_corporacion": "0107017020019030",
+        "nombre_archivo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/E14/07/017/02/001/E14_P01_07_017_002_00_001_9030_3403.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251207%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251207T131751Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=43bf5ae80fd30912844ca2c0601b38951634914591c4da9bea8b6d1e28f27130",
+        "etiquetas": [
+            "Divulgada Correctamente",
+            "Pendiente de Revisi\u00f3n"
+        ]
+    },
+    {
+        "publicada": 1,
+        "numero": 9031,
+        "escrutado": true,
+        "digitalizado": 1,
+        "id_informacion_mesa_corporacion": "0107017020019031",
+        "nombre_archivo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/E14/07/017/02/001/E14_P01_07_017_002_00_001_9031_3403.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251207%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251207T131751Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=e6e462e0e41799e9c635e09bb748c182130a5b7cc83c093cdfdc5139f8789308",
+        "etiquetas": [
+            "Divulgada Correctamente"
+        ]
+    },
+    {
+        "publicada": 1,
+        "numero": 9032,
+        "escrutado": true,
+        "digitalizado": 1,
+        "id_informacion_mesa_corporacion": "0107017020019032",
+        "nombre_archivo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/E14/07/017/02/001/E14_P01_07_017_002_00_001_9032_3403.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251207%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251207T131751Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=5bf6ffb617f696c94fb609661bb8de82775266120c4d61bb5d28f901bc4fdc5a",
+        "etiquetas": [
+            "Divulgada Correctamente"
+        ]
+    }
+]
